@@ -4,8 +4,8 @@
 
 This repository contains code and documentation for reproducing the results from the paper:
 
-**Su et al., "An Adversarial Approach for the Robust Classification of Pneumonia from Chest Radiographs" (2019)**  
-[Link to Paper](https://arxiv.org/abs/1905.05105)
+"An Adversarial Approach for the Robust Classification of Pneumonia from Chest Radiographs" (2019)**  
+[Link to Paper](https://arxiv.org/abs/2001.04051)
 
 ---
 
